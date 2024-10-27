@@ -1,3 +1,5 @@
+#Makesure to run this code in terminal to install pandas: pip install pandas matplotlib
+
 import pandas as pd
 import re
 from collections import Counter
